@@ -1,0 +1,23 @@
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\bin\Debug\Dewey Decimal Classification system.exe.config
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\bin\Debug\Dewey Decimal Classification system.exe
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\bin\Debug\Dewey Decimal Classification system.pdb
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey_Decimal_Classification_system.ReplacingBooksForm.resources
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey_Decimal_Classification_system.TasksForm.resources
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey_Decimal_Classification_system.Properties.Resources.resources
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.csproj.GenerateResource.cache
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.exe
+C:\Users\User-PC\source\repos\Dewey Decimal Classification system\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.pdb
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\bin\Debug\Dewey Decimal Classification system.exe.config
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\bin\Debug\Dewey Decimal Classification system.exe
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\bin\Debug\Dewey Decimal Classification system.pdb
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.csprojAssemblyReference.cache
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey_Decimal_Classification_system.ReplacingBooksForm.resources
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey_Decimal_Classification_system.TasksForm.resources
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey_Decimal_Classification_system.Properties.Resources.resources
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.csproj.GenerateResource.cache
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.csproj.CoreCompileInputs.cache
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.exe
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey Decimal Classification system.pdb
+D:\D\Thuso Sakong - ST10120640 - Group 3 - PROG7312 - Part 1\Dewey Decimal Classification system\obj\Debug\Dewey_Decimal_Classification_system.IdentifyingAreas.resources
